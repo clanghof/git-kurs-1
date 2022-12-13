@@ -59,6 +59,7 @@ genannt
 <br><i>git remote remove origin </i>
 <br><b>Holen der der Resourcen aus dem Repository</b>
 <br><i>git pull origin main</i>
+<h3>//PULL</h3>
 <p>wenn das erste mal connected wird muss authentifiziert 
 dazu muss unter Einstellungen->Devoloper ein Token eingerichtet werden...
 wenn beim pull eventuelle Histories im Wege sind
@@ -66,4 +67,7 @@ wenn beim pull eventuelle Histories im Wege sind
 <br><b>Pull der die unterschiedliche Histories lokal und online ignoriert...</b>
 <br><i>git pull origin main --allow-unrelated-histories</i>
 wieder raus
+<h3>//PUSH</h3>
+<p>Auch hier wird eine Authentifizierung mit TOKEN vorrausgehen.</p>
+
 
