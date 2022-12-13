@@ -52,7 +52,14 @@ Wenn alles 0kay ist kann es weiter gehen.
 
 vereinbaren von regeln/Konv. für die Arbeit mit Repos.
 <h3>//GITHUB FLOW</h3>
-git remote add origin htts://path
+<i>git remote add origin htts://path/to/repository</i>
+<br>erstmal ist damit die quelle des Online-Repositories
+genannt 
+<b>entfernen der Kopplung des Repository's</b>
+<i>git remote remove origin </i>
+
+
+wenn das erste mal connected wird muss authentifiziert 
 
 GITFLOW
 
