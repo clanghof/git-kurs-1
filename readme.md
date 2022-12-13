@@ -32,8 +32,9 @@ Anlegen von branches bzw. forks
 git branch  <name>
 
 In einen branch wechseln
-git checkout <name> 
-//STASH
+git checkout <name>
+  
+  //<b>STASH</b>
 um Zwischenstände zu speichern bzw. Alternativen auszuprobieren
 dem stash muss ein commit der Datei(en) vorangegangen sein.
 git stash save <name> 
