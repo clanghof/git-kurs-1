@@ -62,7 +62,8 @@ genannt
 <p>wenn das erste mal connected wird muss authentifiziert 
 dazu muss unter Einstellungen->Devoloper ein Token eingerichtet werden...
 wenn beim pull eventuelle Histories im Wege sind
-</b>
-<i>git pull origin main --allow-unrelated-histories</i>
+</p>
+<br><b>Pull der die unterschiedliche Histories lokal und online ignoriert...</b>
+<br><i>git pull origin main --allow-unrelated-histories</i>
 wieder raus
 
