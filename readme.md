@@ -1,3 +1,6 @@
+<style>
+red{color:red;}
+</style>
 <h3>General</h3>
 https://www.youtube.com/watch?v=Uszj_k0DGsg
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
@@ -58,10 +61,12 @@ genannt
 <br><b>entfernen der Kopplung des Repository's</b>
 <br><i>git remote remove origin </i>
 <br><b>Holen der der Resourcen aus dem Repository</b>
-<br><i>git pull origin main</i>
 <h3>//PULL</h3>
+<br><i>git pull origin main</i>
+<p>Es wird geschaut ob es Änderungen (direkt in Git oder von anderen Usern) 
+stattgefunden und merged das mit den lokalen Ressourcen...</p>
 <p>wenn das erste mal connected wird muss authentifiziert 
-dazu muss unter Einstellungen->Devoloper ein Token eingerichtet werden...
+dazu muss unter Einstellungen->Developer ein Token eingerichtet werden...
 wenn beim pull eventuelle Histories im Wege sind
 </p>
 <br><b>Pull der die unterschiedliche Histories lokal und online ignoriert...</b>
@@ -69,5 +74,7 @@ wenn beim pull eventuelle Histories im Wege sind
 wieder raus
 <h3>//PUSH</h3>
 <p>Auch hier wird eine Authentifizierung mit TOKEN vorrausgehen.</p>
+<p class="red">Achtung! es werden nur änderungen eingespielt die commited wurden</p>
+<br><i>git push origin main</i>
 
 
