@@ -76,5 +76,11 @@ wieder raus
 <p>Auch hier wird eine Authentifizierung mit TOKEN vorrausgehen.</p>
 <p class="red">Achtung! es werden nur änderungen eingespielt die commited wurden</p>
 <br><i>git push origin main</i>
+<h3>//FETCH</h3>
+<p>
+Mit diesem Befehl kann man sich vergewissern, ob es irgendwelche Änderungen
+Im Online-Repository gegeben hat.
+<br>Wenn das der Fall sollte gepullt werden.
+</p>
 
 
