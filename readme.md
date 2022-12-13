@@ -1,4 +1,4 @@
-<b>General</b>
+<h3>General</h3>
 https://www.youtube.com/watch?v=Uszj_k0DGsg
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
 
@@ -10,7 +10,7 @@ git commit <file>
 Achtung beim commit öffnet sich der VI-Editor (esc-taste drücke und dann :wq eingeben)
 git commit  -m „das habe ich getan“ <file>
 
-<b>//LOG</b> 
+<h3>//LOG</h3> 
 Änderungen anzeigen
 git show 
 mit der option s 
@@ -26,14 +26,14 @@ git diff <code des commits/reverts aus dem Log>
 Alten Zustand einer Datei wiederherstellen 
 git revert <code des commits/reverts aus dem Log>
 
-<b>//BRANCH</b>
+<h3>//BRANCH</h3>
 Anlegen von branches bzw. forks
 git branch  <name>
 
 In einen branch wechseln
 git checkout <name>
   
-<b>//STASH</b>
+<h3>//STASH</h3>
 um Zwischenstände zu speichern bzw. Alternativen auszuprobieren
 dem stash muss ein commit der Datei(en) vorangegangen sein.
 git stash save <name> 
@@ -51,6 +51,8 @@ Danach läßt man sich mit git status den aktuellen Status ausgeben.
 Wenn alles 0kay ist kann es weiter gehen.
 
 vereinbaren von regeln/Konv. für die Arbeit mit Repos.
-GITHUB FLOW
+<h3>//GITHUB FLOW</h3>
+git remote add origin htts://path
+
 GITFLOW
 
