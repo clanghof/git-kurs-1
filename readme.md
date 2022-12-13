@@ -55,9 +55,10 @@ vereinbaren von regeln/Konv. für die Arbeit mit Repos.
 <i>git remote add origin htts://path/to/repository</i>
 <br>erstmal ist damit die quelle des Online-Repositories
 genannt 
-<b>entfernen der Kopplung des Repository's</b>
-<i>git remote remove origin </i>
-
+<br><b>entfernen der Kopplung des Repository's</b>
+<br><i>git remote remove origin </i>
+<br><b>Holen der der Resourcen aus dem Repository</b>
+<br><i>git pull origin main</i>
 
 wenn das erste mal connected wird muss authentifiziert 
 
