@@ -1,6 +1,4 @@
-<style>
-red{color:red;}
-</style>
+
 <h3>General</h3>
 https://www.youtube.com/watch?v=Uszj_k0DGsg
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
