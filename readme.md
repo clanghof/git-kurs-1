@@ -1,5 +1,4 @@
-
-General
+<b>General</b>
 https://www.youtube.com/watch?v=Uszj_k0DGsg
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
 
@@ -11,7 +10,7 @@ git commit <file>
 Achtung beim commit öffnet sich der VI-Editor (esc-taste drücke und dann :wq eingeben)
 git commit  -m „das habe ich getan“ <file>
 
-//LOG 
+<b>//LOG</b> 
 Änderungen anzeigen
 git show 
 mit der option s 
