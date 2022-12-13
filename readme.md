@@ -80,5 +80,15 @@ Mit diesem Befehl kann man sich vergewissern, ob es irgendwelche Änderungen
 Im Online-Repository gegeben hat.
 <br>Wenn das der Fall sollte gepullt werden.
 </p>
+<h3>//CLONE</h3>
+<p>
+Wenn man das gesamte Projekt gerne bearbeiten/weiterentwickeln will
+zieht man sich einen clone 
+</p>
+<br>git clone <https://pfad/da/hin>
+<h3>GITHHUB-Projekte</h3>
+<p>Diese</p>
+
+<h3>GITHUB-Packages</h3>
 
 
