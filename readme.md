@@ -6,7 +6,7 @@ https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/
 
 von Anbieter  http://git-tower.com
 <h3>//INIT</h3> 
-damit 
+hier schreibe ich etwas was gar nicht zu begreifen ist...
 <h3>//COMMIT</h3> 
 commit…
 git commit <file>
