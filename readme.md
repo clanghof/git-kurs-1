@@ -25,7 +25,7 @@ git log --graph --online (mit grafischem Baum)
 
 <h3>//DIFF</h3>
 Was geht ab …oder…kommt hinzu 
-git diff <code des commits/reverts aus dem Log>
+git diff <coding des commits/reverts aus dem Log>
 
 Alten Zustand einer Datei wiederherstellen 
 git revert <code des commits/reverts aus dem Log>
