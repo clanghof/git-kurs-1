@@ -5,8 +5,20 @@ https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/
 
 
 von Anbieter  http://git-tower.com
+<h3>//CONFIG</h3>
+<br><b>Alle Einträge der Konfiguration listen.</b>
+<br><i>git config --list</i>
+<br><b>Einträge ändern.</b>
+<br><i>git config user.name "alias des users"</i>
+<br><b>Einträge einzeln ausgeben.</b>
+<br><i>git config user.name </i>
+
+
+ 
 <h3>//INIT</h3> 
-hier schreibe ich etwas was gar nicht zu begreifen ist...
+Verzeichnis mit git einrichten
+<br><i>git init</i>
+
 <h3>//COMMIT</h3> 
 commit…
 git commit <file>
