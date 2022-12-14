@@ -5,7 +5,6 @@ https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/
 
 
 von Anbieter  http://git-tower.com
-#hier ein eintrag
 <h3>//INIT</h3> 
 damit 
 <h3>//COMMIT</h3> 
