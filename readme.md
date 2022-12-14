@@ -20,10 +20,15 @@ Verzeichnis mit git einrichten
 <br><i>git init</i>
 
 <h3>//COMMIT</h3> 
-commit…
-git commit <file>
+<b>Einzelne Datei "commiten" </b>
+<br><i>git commit -m "text zu commit" <file></i>
+<br><b>Ganzes Verzeichnis bzw. alle Dateien commiten</b>
+<br><i>git commit -m "text zu commit" --all</i>
+<br><b>Datei oder Verzeichnis  "commiten" ...</b>
+<br><i>git commit <file|--all></i>
+<p style="color:red;">
 Achtung beim commit öffnet sich der VI-Editor (esc-taste drücke und dann :wq eingeben)
-git commit  -m „das habe ich getan“ <file>
+</p>
 
 <h3>//LOG</h3> 
 Änderungen anzeigen
