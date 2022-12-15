@@ -1,8 +1,13 @@
 
 <h3>//Links</h3>
+<br>
 https://www.youtube.com/watch?v=Uszj_k0DGsg
+<i>allgemeines Video</i>
+<br>
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
-
+<i>Kurs bei Udemy  - kostenpflichtig</i>
+<br>https://pages.cms.hu-berlin.de/cms-webtech/gitlab-documentation/docs/git-befehle/
+<i>Beschreibubng der wichtigsten Befehle von der HU-Berlin</i>
 
 von Anbieter  http://git-tower.com
 <h3>//CONFIG</h3>
@@ -31,13 +36,12 @@ Achtung beim commit öffnet sich der VI-Editor (esc-taste drücke und dann :wq e
 </p>
 
 <h3>//LOG</h3> 
-Änderungen anzeigen
-git show 
-mit der option s 
-bzw. 
-git log —oneline (bessere verkürzte Darstellung) 
-einzeilige Darstellung der Änderungen
-git log --graph --online (mit grafischem Baum)
+<b>Änderungen anzeigen (mit der option -s in verkürzter  Form)</b>
+<br><i>git show -s</i>
+<br><b>bessere verkürzte/ganz kurze  Darstellung</b>
+<br><i>git log —oneline</i>
+<br><b>einzeilige Darstellung der Änderungen  (mit grafischem Baum)</b>
+<br><i>git log --graph --online</i>
 
 <h3>//DIFF</h3>
 Was geht ab …oder…kommt hinzu 
@@ -65,10 +69,10 @@ Vorzugsvariante reaktivieren
   <li>git stash apply stash@{2}</li>
   <li>git stash clear (löschen des Stashs)</li></ul>
 
-//MERGE
+<h3>//MERGE</h3>
 man bereinigt die Datei… und macht ein commit …
 Danach läßt man sich mit git status den aktuellen Status ausgeben.
-Wenn alles 0kay ist kann es weiter gehen.
+Wenn alles okay ist kann es weiter gehen.
 
 vereinbaren von regeln/Konv. für die Arbeit mit Repos.
 <h3>//GITHUB FLOW</h3>
@@ -93,6 +97,7 @@ wieder raus
 <p>Auch hier wird eine Authentifizierung mit TOKEN vorrausgehen.</p>
 <p class="red">Achtung! es werden nur änderungen eingespielt die commited wurden</p>
 <br><i>git push origin main</i>
+
 <h3>//FETCH</h3>
 <p>
 Mit diesem Befehl kann man sich vergewissern, ob es irgendwelche Änderungen
