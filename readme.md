@@ -8,8 +8,14 @@ https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/
 <i>Kurs bei Udemy  - kostenpflichtig</i>
 <br>https://pages.cms.hu-berlin.de/cms-webtech/gitlab-documentation/docs/git-befehle/
 <br><i>Beschreibubng der wichtigsten Befehle von der HU-Berlin</i>
+<h3>//Software die Arbeit abnimmt</h3>
+http://git-tower.com
+<h3>//Online Repositories  - Plattformen</h3>
+<br>http://github.com
+<br>http://bitbucket.com
+<br>http://gitlab.com
 
-von Anbieter  http://git-tower.com
+
 <h3>//CONFIG</h3>
 <br><b>Alle Einträge der Konfiguration listen.</b>
 <br><i>git config --list</i>
