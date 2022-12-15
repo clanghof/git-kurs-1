@@ -2,12 +2,12 @@
 <h3>//Links</h3>
 <br>
 https://www.youtube.com/watch?v=Uszj_k0DGsg
-<i>allgemeines Video</i>
+<br><i>allgemeines Video</i>
 <br>
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
 <i>Kurs bei Udemy  - kostenpflichtig</i>
 <br>https://pages.cms.hu-berlin.de/cms-webtech/gitlab-documentation/docs/git-befehle/
-<i>Beschreibubng der wichtigsten Befehle von der HU-Berlin</i>
+<br><i>Beschreibubng der wichtigsten Befehle von der HU-Berlin</i>
 
 von Anbieter  http://git-tower.com
 <h3>//CONFIG</h3>
