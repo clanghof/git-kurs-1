@@ -17,12 +17,13 @@ http://git-tower.com
 
 
 <h3>//CONFIG</h3>
+<p>Git ermöglicht lokale und globale (mit command --global) Einstellungen</p>
 <br><b>Alle Einträge der Konfiguration listen.</b>
-<br><i>git config --list</i>
+<br><i>git config [--global] --list</i>
 <br><b>Einträge ändern.</b>
-<br><i>git config user.name "alias des users"</i>
+<br><i>git config [--global] user.name "alias des users"</i>
 <br><b>Einträge einzeln ausgeben.</b>
-<br><i>git config user.name </i>
+<br><i>git config [--global] user.name </i>
 
 
  
