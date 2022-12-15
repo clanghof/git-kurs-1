@@ -15,7 +15,7 @@ http://git-tower.com
 <br>http://bitbucket.com
 <br>http://gitlab.com
 
-
+wq
 <h3>//CONFIG</h3>
 <p>Git ermöglicht lokale und globale (mit command --global) Einstellungen</p>
 <br><b>Alle Einträge der Konfiguration listen.</b>
@@ -58,12 +58,16 @@ Alten Zustand einer Datei wiederherstellen
 git revert <code des commits/reverts aus dem Log>
 
 <h3>//BRANCH</h3>
+<p>
+Je nachdem wie man sein Projekt entwickelt gibt es unterschiedliche Philosophien
+/Absprachen zwischen Entwicklern wie ins git commitet wird.
+Angelegt werden verschiedene Branches und Sub-branches.
+</p>
 Anlegen von branches bzw. forks
-git branch  <name>
+git branch  [name]
 
 In einen branch wechseln
-git checkout <name>
-  
+git checkout [name]  
 <h3>//STASH</h3>
 um Zwischenstände zu speichern bzw. Alternativen auszuprobieren
 dem stash muss ein commit der Datei(en) vorangegangen sein.
