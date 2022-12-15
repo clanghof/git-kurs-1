@@ -7,7 +7,11 @@ https://www.youtube.com/watch?v=Uszj_k0DGsg
 https://www.udemy.com/course/versionsverwaltung-mit-git-und-github-fur-anfanger/learn/lecture/19451080#overview
 <i>Kurs bei Udemy  - kostenpflichtig</i>
 <br>https://pages.cms.hu-berlin.de/cms-webtech/gitlab-documentation/docs/git-befehle/
-<br><i>Beschreibubng der wichtigsten Befehle von der HU-Berlin</i>
+
+<br><i>Beschreibung der wichtigsten Befehle von der HU-Berlin</i>
+<br><i>Erklärung zum Anlegen eines neuen Projektes auf GITHUB mit allen optionalen Einstellungen</i>
+<br><i>Erklärung zum Anlegen eines neuen Projektes auf GITHUB mit allen optionalen Einstellungen</i>
+
 <h3>//Software die Arbeit abnimmt</h3>
 http://git-tower.com
 <h3>//Online Repositories  - Plattformen</h3>
@@ -65,15 +69,19 @@ Angelegt werden verschiedene Branches und Sub-branches.
 </p>
 <b>Anlegen eines Branches</b>
 <br><i>git branch [name]</i>
-<b>Anlegen eines Branches und sofort in den Branch wechseln</b>
+<br><b>Anlegen eines Branches und sofort in den Branch wechseln</b>
 <br><i>git branch -a [name]</i>
-
 <br><b>In einen Branch wechseln</b>
 <br><i>git checkout [name] </i> 
+
 <h3>//STASH</h3>
-um Zwischenstände zu speichern bzw. Alternativen auszuprobieren
+<p>
+Um Zwischenstände zu speichern bzw. Alternativen auszuprobieren
 dem stash muss ein commit der Datei(en) vorangegangen sein.
-git stash save <name> 
+</p>
+<b>Speichern einer Version im stash</b>
+<br><i>git stash save [Name der Datei]</i>
+ 
 Vorzugsvariante reaktivieren
 <ul><li>git stash list
 <br>stash@{1} ….
