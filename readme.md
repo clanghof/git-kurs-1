@@ -63,11 +63,13 @@ Je nachdem wie man sein Projekt entwickelt gibt es unterschiedliche Philosophien
 /Absprachen zwischen Entwicklern wie ins git commitet wird.
 Angelegt werden verschiedene Branches und Sub-branches.
 </p>
-Anlegen von branches bzw. forks
-git branch  [name]
+<b>Anlegen eines Branches</b>
+<br><i>git branch [name]</i>
+<b>Anlegen eines Branches und sofort in den Branch wechseln</b>
+<br><i>git branch -a [name]</i>
 
-In einen branch wechseln
-git checkout [name]  
+<br><b>In einen Branch wechseln</b>
+<br><i>git checkout [name] </i> 
 <h3>//STASH</h3>
 um Zwischenstände zu speichern bzw. Alternativen auszuprobieren
 dem stash muss ein commit der Datei(en) vorangegangen sein.
