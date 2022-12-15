@@ -1,3 +1,5 @@
 trash/
 /HTML5Application/nbproject/private/
 /nbproject/private/
+.DS_Store
+.gitignore
